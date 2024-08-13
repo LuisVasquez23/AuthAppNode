@@ -17,7 +17,7 @@ This project is a RESTful API built with Node.js and Express, focused on authent
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourUsername/AuthAppNode.git
+    git clone https://github.com/LuisVasquez23/AuthAppNode.git
     cd AuthAppNode
     ```
 
